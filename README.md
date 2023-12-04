@@ -2,7 +2,7 @@
 
 ** a to do list by js **
 
-![view](https://github.com/danial-barati/tab-menu/assets/104683176/9d469bbe-952d-4104-8e9c-90c5adb2a931)
+![view](https://github.com/danial-barati/todolist/assets/104683176/82f9095b-e7e1-45a4-bce6-f55b9fa9b084)
 
 - 🔗 [demo](https://danial-barati.github.io/tab-menu/)
 
