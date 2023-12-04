@@ -4,7 +4,7 @@
 
 ![view](https://github.com/danial-barati/todolist/assets/104683176/82f9095b-e7e1-45a4-bce6-f55b9fa9b084)
 
-- 🔗 [demo](https://danial-barati.github.io/tab-menu/)
+- 🔗 [demo](https://danial-barati.github.io/todolist/)
 
 - 👩🏻‍💻 Developed by danial barati
 
